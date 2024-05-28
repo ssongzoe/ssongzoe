@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ssongzoe, ML engieeer @PLAIF
-- 👀 I’m interested in ML, Fed ML, graph representation
+- 👋 Hi, I’m @ssongzoe, ML engieer @PLAIF
+- 👀 I’m interested in MLOps, Fed ML, graph representation
 - 📫 How to reach me szlee@plaif.com / lsy7451@g.skku.edu
 
 <!---
