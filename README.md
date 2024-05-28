@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ssongzoe
+- 👋 Hi, I’m @ssongzoe, ML engieeer @PLAIF
 - 👀 I’m interested in ML, Fed ML, graph representation
-- 🌱 I’m currently learning CS, ML, DL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me lsy7451@g.skku.edu
+- 📫 How to reach me szlee@plaif.com / lsy7451@g.skku.edu
 
 <!---
 ssongzoe/ssongzoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
